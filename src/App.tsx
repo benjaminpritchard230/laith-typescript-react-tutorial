@@ -22,7 +22,7 @@ function App() {
     },
     {
       name: "Kobe",
-      url: "",
+      url: "https://www.biography.com/.image/t_share/MTgwMzQyOTk2OTY3ODkyODQ0/gettyimages-490703338.jpg",
       age: 36,
       note: "",
     },
